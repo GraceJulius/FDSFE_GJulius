@@ -1,2 +1,2 @@
-What is this homework? This homework focuses on me getting an understanding of both descriptive and exploratory data analysis. By doing so, I was able to explore of a dataset that was contains necessary details of youtube users in the US needed for this analysis. This is for a homework in the my foundations in data science class.
-Who did you work with? I worked mainly by myself and sort help from online resources.
+What is this homework? This homework focuses on me getting an understanding of both descriptive and exploratory data analysis. By doing so, I was able to explore a dataset that contained necessary details of youtube users in the US needed for this analysis. This is for a homework for my foundations in data science class.
+Who did you work with? I worked mainly by myself and got help from online resources.
