@@ -1,0 +1,1 @@
+This is for an assignment in the FDSFE class. I worked on giving codes to specified instructions and gave descriptions to some captions already provided by the instructor. I honed my knowledge in DBSCAN. This was a challenging assignment and I did not work with anyone. 
