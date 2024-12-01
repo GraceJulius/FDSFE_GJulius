@@ -1,1 +1,1 @@
-
+This homework is for my foundations in data science class. I worked on creating three neural networks to solve the same problems. This homework tested my understanding of class activities in building Artificial Neural Network and Convolutional Neural Network to solve the given problem as a multiclass classification and regression. I learned a lot from this homework and when I encountered problem with my GPU(exhausted), I sort help from my professor and also made use of online resources. I did not work with anyone on this homework.
